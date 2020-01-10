@@ -1,3 +1,3 @@
 function booking(){
-    return "Tickets Booked";
+    return "bus tickets,filght tickets,bus tickets";
 }
